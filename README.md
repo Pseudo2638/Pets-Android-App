@@ -1,1 +1,1 @@
-# Pets-Android-App
+# Quake Report Android App
